@@ -1,0 +1,4 @@
+com\example\deploy\model\Class.class
+com\example\deploy\controller\ClassController.class
+com\example\deploy\repository\ClassRepository.class
+com\example\deploy\DeployApplication.class
